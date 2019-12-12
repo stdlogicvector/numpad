@@ -2,6 +2,8 @@
 
 A custom built 5x4 key numpad with encoders and display.
 
+More Info on this ![Reddit Thread](https://www.reddit.com/r/MechanicalKeyboards/comments/e81bfg/custom_built_numpad_with_encoders_and_display/)
+
 ## Circuit Board
 
 ![Populated Circit Board - Bottom Side](pcb.png)
