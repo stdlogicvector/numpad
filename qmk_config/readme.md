@@ -1,7 +1,7 @@
 NumPad
 ===
 
-![NumPad](https://i.imgur.com/WVTe0Ku.png)
+![NumPad](numpad.png)
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
