@@ -16,6 +16,34 @@ The BOM and SMT placement file (CPL) are formatted for use with JLCPCB.
 Apart from the keys, encoders, display, the USB-connector and the LED matrix driver all parts can be populated by JLCPCB.
 The schematic contains the LCSC partnumbers in the attributes of each part.
 
+### JLCPCB Configuration
+
+If you want to order PCBs from JLC-PCB with the provided gerber-files,
+use the following settings after uploading the zipped gerber folder:
+
+* Layers: 2
+* Dimension: 98mm*98mm
+* PCB Thickness: 1.6
+* PCB Color: Choose what you want
+* Impedance: no
+* Surface Finish: HASL(with lead) (ENIG is also OK)
+* Copper Weight: 1
+* Gold Fingers: No
+* Material Details: FR4-Standard Tg 130-140C
+* Panel By JLCPCB: No
+* Flying Probe Test: Fully Test
+* Castellated Holes: no
+* Different Design: 1
+* Remove Order Number: Choose what you want
+
+5 PCBs without assembly cost about 3.60€ or $4.00.
+
+If you want to have the SMT parts populated, choose "SMT Assembly" and select "Bottom Layer".
+
+When asked for the BOM and CPL file, upload the provided files.
+
+Assembly and parts for 5 PCBs costs about 33.30€ or $37.10.
+
 ### Keys
 
 All keys compatible with Cherry MX 2 or 3 pin should fit the board.
