@@ -44,6 +44,7 @@ When asked for the BOM and CPL file, upload the provided files.
 
 Assembly and parts for 5 PCBs costs about 33.30€ or $37.10.
 
+
 ### Keys
 
 All keys compatible with Cherry MX 2 or 3 pin should fit the board.
@@ -58,7 +59,14 @@ The encoders a standard rotary encoders, just search ebay/aliexpress/amazon or y
 
 ### Display
 
-The display is an 128x64 SPI OLED module. This can also be found on ebay/etc.
+The display is an 0.91" 128x32 SPI OLED module like ![this](https://www.ebay.com/itm/312892164528). They are all over ebay and aliexpress.
+
+### Misc Parts
+
+The USB Connector can be found on ![Digikey](https://www.digikey.com/short/p12hh9), but you can substitute others with the same pad layout.
+
+The LED Driver is also available on ![Digikey](https://www.digikey.com/short/p12hhw).
+
 
 ## QMK Configuration
 
