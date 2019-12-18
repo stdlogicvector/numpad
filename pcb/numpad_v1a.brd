@@ -2315,7 +2315,7 @@ Covered vias can be set in Masks (Limit).
 <attribute name="NAME" x="88.6" y="92" size="1.27" layer="26" font="vector" ratio="20" rot="MR0"/>
 <attribute name="VALUE" x="85.9" y="93.3" size="1.27" layer="28" rot="MR180"/>
 </element>
-<element name="IC2" library="microbuilder" package="QFN28_4MM_0.4MM" value="IS31FL3731-SALS2" x="87" y="67" smashed="yes" rot="MR0">
+<element name="IC2" library="microbuilder" package="QFN28_4MM_0.4MM" value="IS31FL3731-QFLS2" x="87" y="67" smashed="yes" rot="MR0">
 <attribute name="NAME" x="88.25" y="69.8" size="1.27" layer="26" font="vector" ratio="20" rot="MR0"/>
 <attribute name="VALUE" x="94.4" y="71.35" size="0.4064" layer="28" ratio="10" rot="MR0"/>
 </element>

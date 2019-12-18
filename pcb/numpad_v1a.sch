@@ -14875,7 +14875,7 @@ DIN A4, landscape with extra doc field</description>
 <part name="D17" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="DIODE-" device="SOD123" package3d_urn="urn:adsk.eagle:package:43420/1" value="1N4148W">
 <attribute name="LCSC" value="C81598"/>
 </part>
-<part name="IC2" library="microbuilder" deviceset="IS31FL3731" device="QFN" value="IS31FL3731-SALS2"/>
+<part name="IC2" library="microbuilder" deviceset="IS31FL3731" device="QFN" value="IS31FL3731-QFLS2"/>
 <part name="GND8" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 <part name="R8" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/2" value="20k">
