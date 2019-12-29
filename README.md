@@ -2,7 +2,7 @@
 
 A custom built 5x4 key numpad with encoders and display.
 
-More Info on this ![Reddit Thread](https://www.reddit.com/r/MechanicalKeyboards/comments/e81bfg/custom_built_numpad_with_encoders_and_display/)
+More Info on this [Reddit Thread](https://www.reddit.com/r/MechanicalKeyboards/comments/e81bfg/custom_built_numpad_with_encoders_and_display/)
 
 ## Circuit Board
 
@@ -59,13 +59,13 @@ The encoders a standard rotary encoders, just search ebay/aliexpress/amazon or y
 
 ### Display
 
-The display is an 0.91" 128x32 SPI OLED module like ![this](https://www.ebay.com/itm/312892164528). They are all over ebay and aliexpress.
+The display is an 0.91" 128x32 SPI OLED module like [this](https://www.ebay.com/itm/312892164528). They are all over ebay and aliexpress.
 
 ### Misc Parts
 
-The USB Connector can be found on ![Digikey](https://www.digikey.com/short/p12hh9), but you can substitute others with the same pad layout.
+The USB Connector can be found on [Digikey](https://www.digikey.com/short/p12hh9), but you can substitute others with the same pad layout.
 
-The LED Driver is also available on ![Digikey](https://www.digikey.com/short/p12hhw).
+The LED Driver is also available on [Digikey](https://www.digikey.com/short/p12hhw).
 
 
 ## QMK Configuration
